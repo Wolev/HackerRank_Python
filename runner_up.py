@@ -1,4 +1,4 @@
-''' Find the runner-up score from a random generated array of integers. '''
+''' Find the runner-up score and the max score from a random generated array of positive integers. '''
 
 import random
 
